@@ -10,7 +10,7 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Tela Inicial'),
+        title: Text('Tela Inicial feita por Sabrinna do Nascimento e Maria Eduarda Queiroz'),
       ),
       body: Center(
         child: ElevatedButton(
